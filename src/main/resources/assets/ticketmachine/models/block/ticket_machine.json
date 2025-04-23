@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable_with_bottom",
+  "textures": {
+    "front": "ticketmachine:block/ticket_machine",
+    "side": "ticketmachine:block/ticket_side",
+    "top": "ticketmachine:block/ticket_side",
+    "bottom": "ticketmachine:block/ticket_bottom"
+  }
+}
